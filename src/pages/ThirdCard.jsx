@@ -13,7 +13,7 @@ const ThirdCard = () => {
         <button className='px-4 py-1 rounded-md bg-[#DA2778] text-white active:scale-95 cursor-pointer text-lg font-semibold'>Prev</button>
       </NavLink>
       <div className='w-[280px] h-auto rounded-t-2xl rounded-br-2xl rounded-bl-md bg-[#FFFFFF] border-6 border-[#DA2778]'>
-       <img className='m-auto' src="/src/assets/pizza.png" alt="" />
+       <img className='m-auto' src="src/assets/pizza.png" alt="" />
 
        <div className='flex items-center justify-between px-8 mb-2'>
         <h1 className='font-bold flex gap-1 items-center'><span><GoBookmarkFill color='#17BB84'/></span>Pizza</h1>
@@ -42,7 +42,7 @@ const ThirdCard = () => {
       </div>
 
       <div className='w-[280px] h-auto rounded-t-2xl rounded-br-2xl rounded-bl-md bg-[#FFFFFF] border-6 border-[#2563EA]'>
-       <img className='m-auto py-6' src="/src/assets/ice.png" alt="" />
+       <img className='m-auto py-6' src="src/assets/ice.png" alt="" />
 
        <div className='flex items-center justify-between px-8 mb-2'>
         <h1 className='font-bold flex gap-1 items-center'><span><GoBookmarkFill color='#17BB84'/></span>Ice Cream</h1>
